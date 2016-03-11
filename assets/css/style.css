@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Caviar';
+    src: url('../font/CaviarDreams.ttf');
+}
+
+ol, ul {
+    list-style: none;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Caviar', 'Sans Serif';
+    color: #FBF6F0;
+    font-size: 1.2em;
+}
+
+img {
+    max-width: 100%;
+}
+
+/*Helpers*/
+.bg-color-dark {
+    background-color: #0E0B0A !important;
+}
+
+.bg-color-dark-2 {
+    background-color: #5A5747 !important;
+}
+
+.bg-color-light {
+    background-color: #A0A38E !important;
+}
+
+.bg-color-primary {
+    background-color: #3B1D1D !important;
+}
+
+.bg-color-secundary {
+    background-color: #A34D3E !important;
+}
+
+.txt-center {
+    text-align: center !important;
+}
+
+.txt-left {
+    text-align: left !important;
+}
+
+.txt-right {
+    text-align: right !important;
+}
+
+.clear {
+    clear: both;
+}
+
+.vertical-center {
+    vertical-align: middle;
+}

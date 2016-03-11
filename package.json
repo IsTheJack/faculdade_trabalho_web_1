@@ -1,0 +1,22 @@
+{
+  "name": "faculdade_suicide_squad",
+  "version": "0.0.1",
+  "description": "Trabalho da Faculdade da matéria de Desenvolvimento Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files=\"*/*/*.css, *.html\""
+  },
+  "keywords": [
+    "trabalho",
+    "faculdade",
+    "web",
+    "suicide",
+    "squad"
+  ],
+  "author": "Roberto Oliveira",
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^3.0.3"
+  }
+}
